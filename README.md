@@ -1,4 +1,6 @@
-### Hi there 👋
+[![banner](https://github.com/Abdelrahman-IK/Abdelrahman-IK/blob/main/header.png)](https://github.com/Abdelrahman-IK)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
 
 <!--
 **Abdelrahman-IK/Abdelrahman-IK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
